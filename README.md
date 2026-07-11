@@ -1,3 +1,2 @@
   #Creating NEw REPO --- 
-<<<<<<< HEAD
-  Hello world ( Above)
+  Hello world (bottum)
